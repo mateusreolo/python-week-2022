@@ -1,0 +1,5 @@
+Linters
+
+Black: Biblioteca que ajusta o código, formatação, identação
+ --black -l 79 beerlog
+Flake8: Busca no código módulos não utilizados, avisos de melhores práticas conforme PEP8
